@@ -4,7 +4,7 @@
   "description": "Validated HUB3 payment barcode (PDF417 \"slikaj i plati\") for Croatian bank apps. Pure JS, no canvas, SVG or PNG, IBAN mod-97 check.",
   "keywords": ["hub3", "pdf417", "croatia", "payment", "barcode", "iban", "slikaj-i-plati", "typescript"],
   "license": "MIT",
-  "author": "Tin Martinić",
+  "author": "Neviox Digital",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

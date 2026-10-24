@@ -101,7 +101,7 @@ npm run build
 
 ## Author
 
-Built by [Tin Martinić](https://github.com/tinmartinic) at [Neviox Digital](https://nevioxdigital.com) ([GitHub](https://github.com/Neviox-Digital-Agency), [LinkedIn](https://www.linkedin.com/in/martinictin/)).
+Built by [Neviox Digital](https://nevioxdigital.com) ([GitHub](https://github.com/Neviox-Digital-Agency), [LinkedIn](https://www.linkedin.com/in/martinictin/)).
 
 ## License
 
