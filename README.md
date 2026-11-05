@@ -99,6 +99,12 @@ npm test
 npm run build
 ```
 
+## Related projects
+
+* [Rentijer](https://rentijer.com): property management for Croatian holiday-rental hosts, built by [Neviox Digital](https://nevioxdigital.com).
+* [stripe-parra](https://github.com/Neviox-Digital-Agency/stripe-parra): fiscalized Croatian invoices for Stripe subscription payments, issued through Parra.
+* [evisitor-client](https://github.com/tinmartinic/evisitor-client): typed client for the Croatian eVisitor tourist registration API.
+
 ## Author
 
 Built by [Neviox Digital](https://nevioxdigital.com) ([GitHub](https://github.com/Neviox-Digital-Agency), [LinkedIn](https://www.linkedin.com/in/martinictin/)).
